@@ -4,6 +4,7 @@ import unittest
 
 from middlefield_echo import _impl
 
+
 class ImplTest(unittest.TestCase):
 
     def test_echo_printer(self):
